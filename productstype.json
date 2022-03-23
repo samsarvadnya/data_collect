@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "category": "speakers",
+        "category_id": 1,
+        "Image": "https://ibb.co/WKXbW2p"
+        
+    },
+    {
+        "id": 2,
+        "category": "earphones",
+        "category_id": 2,
+        "Image": "https://ibb.co/1KpQ8Wg"
+    },
+    {
+        "id": 3,
+        "category": "cables",
+        "category_id": 3,
+        "Image": "https://ibb.co/nLJDsj5"
+    },
+    {
+        "id": 4,
+        "category": "chargers",
+        "category_id": 3,
+        "Image": "https://ibb.co/grfQMTj"
+    }
+]
