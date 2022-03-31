@@ -1,0 +1,49 @@
+[
+    {
+        "id": 1,
+        "product_name": "DUOPODS A25",
+        "category": "earphones",
+        "category_id": 2,
+        "Price": 1299,
+        "Image": "https://ibb.co/4phK02V", 
+        "Color": "Black"
+       
+    },
+    {
+        "id": 2,
+        "product_name": "COLLAR 2",
+        "category": "earphones",
+        "category_id": 2,
+        "Price": 1399,
+        "Image":"https://ibb.co/4802Pzv",
+        "Color": "Black"
+        
+    },
+    {
+        "id": 3,
+        "product_name": "DUOPODS M20",
+        "category": "earphones",
+        "category_id": 2,
+        "Price": 1299,
+        "Image":"https://ibb.co/kXcGfCT ",
+        "Color": "Black"
+    },
+    {
+        "id": 4,
+        "product_name": "COLLAR-CLASSIC",
+        "category": "earphones",
+        "category_id": 2,
+        "Price": 1099,
+        "Image":"https://ibb.co/7nCSY5P",
+        "Color": "Black"
+    },
+    {
+        "id": 5,
+        "product_name": "COLLAR FLASH",
+        "category": "earphones",
+        "category_id": 2,
+        "Price": 1099,
+        "Image":"https://ibb.co/XbFttCR ",
+        "Color": "Black"
+    }
+]

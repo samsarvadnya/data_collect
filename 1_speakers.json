@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "product_name": "ROAM 2",
+        "category": "speakers",
+        "category_id": 1,
+        "Price": 1199,
+        "Image": "https://ibb.co/3zYzyMp",
+        "Color": "Gray"
+    },
+    {
+        "id": 2,
+        "product_name": "OCTAVE-2",
+        "category": "speakers",
+        "category_id": 1,
+        "Price": 2299,
+        "Image": "https://ibb.co/WvfBn4R",
+        "Color": "Black"
+    },
+    {
+        "id": 3,
+        "product_name": "MOONSTONE",
+        "category": "speakers",
+        "category_id": 1,
+        "Price": 1699,
+        "Image": "https://ibb.co/RcyWrgc",
+        "Color": "Black"
+    },
+    {
+        "id": 4,
+        "product_name": "PLAY",
+        "category": "speakers",
+        "category_id": 1,
+        "Price": 899,
+        "Image": "https://ibb.co/MPwHyV7",
+        "Color": "Black"
+    },
+    {
+        "id": 5,
+        "product_name": "ZERO",
+        "category": "speakers",
+        "category_id": 1,
+        "Price": 999,
+        "Image": "https://ibb.co/r7M8jPs",
+        "Color": "Black"
+    }
+]

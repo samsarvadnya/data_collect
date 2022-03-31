@@ -1,0 +1,43 @@
+
+[
+    {
+        "id": 1,
+        "product_name": "3.1A DUAL PORT",
+        "category": "chargers",
+        "category_id": 4,
+        "Price": 499,
+        "Image": "https://ibb.co/BKZBwDv", 
+        "Color": "Black"
+       
+    },
+    {
+        "id": 2,
+        "product_name": "DEXKTOP CHARGER",
+        "category": "chargers",
+        "category_id": 4,
+        "Price": 1899,
+        "Image":"https://ibb.co/HnvNkbQ",
+        "Color": "Black"
+        
+    },
+    {
+        "id": 3,
+        "product_name": "5.4A CAR CHARGER",
+        "category": "chargers",
+        "category_id": 4,
+        "Price": 899,
+        "Image": "https://ibb.co/CVym6Yc", 
+        "Color": "Black"
+       
+    },
+    {
+        "id": 4,
+        "product_name": "4A DUEL PORT",
+        "category": "chargers",
+        "category_id": 4,
+        "Price": 1099,
+        "Image":"https://ibb.co/wzdVBq4",
+        "Color": "Black"
+        
+    }
+]

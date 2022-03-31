@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "product_name": "MFI TO AUX",
+        "category": "cables",
+        "category_id": 3,
+        "Price": 499,
+        "Image": "https://ibb.co/rmtdnfX",
+        "Color": "White"
+    },
+    {
+        "id": 2,
+        "product_name": "3M HDMI CABLE",
+        "category": "cables",
+        "category_id": 3,
+        "Price": 449,
+        "Image": "https://ibb.co/hMJ60hQ",
+        "Color": "Black"
+    },
+    {
+        "id": 3,
+        "product_name": "1.8M LIGHTING CABLE",
+        "category": "cables",
+        "category_id": 3,
+        "Price": 1199,
+        "Image": "https://ibb.co/r7M8jPs",
+        "Color": "White"
+    },
+    {
+        "id": 4,
+        "product_name": "1.8M AUX CABLE",
+        "category": "cables",
+        "category_id": 3,
+        "Price": 499,
+        "Image": "https://ibb.co/RYM5MRr",
+        "Color": "Black"
+    },
+    {
+        "id": 5,
+        "product_name": "TYPE C TO AUX",
+        "category": "cables",
+        "category_id": 3,
+        "Price": 399,
+        "Image": "https://ibb.co/4fyzDPn",
+        "Color": "Black"
+    }
+]
